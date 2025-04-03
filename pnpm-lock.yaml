@@ -1074,7 +1074,7 @@ snapshots:
       mini-svg-data-uri: 1.4.4
       tailwindcss: 3.4.17
 
-  '@types/bcrypt@5.0.2':
+  '@types/bcrypt@5.0.1':
     dependencies:
       '@types/node': 22.10.7
 
